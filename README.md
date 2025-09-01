@@ -22,7 +22,7 @@ By analyzing serve dominance, the project provides insights into **which players
 
 ## 📊 Data Source
 The datasets come from **Jeff Sackmann’s Tennis Data Repository**:  
-👉 [https://github.com/JeffSackmann/tennis_atp](https://github.com/JeffSackmann/tennis_atp)  
+👉 https://github.com/JeffSackmann/tennis_slam_pointbypoint 
 
 - `2024-usopen-points.csv` → Contains serve-level and point-level information.  
 - `2024-usopen-matches.csv` → Contains player and match-level information.  
