@@ -13,7 +13,7 @@ By analyzing serve dominance, the project provides insights into **which players
 ---
 
 ## 📂 Files
-- `usopen_analysis.R` → Main R script with all steps (data prep, modeling, evaluation, and visualization).  
+- `USOpen2024TennisServeAnalysisProject.R` → Main R script with all steps (data prep, modeling, evaluation, and visualization).  
 - `2024-usopen-points.csv` → Point-level dataset (serve details).  
 - `2024-usopen-matches.csv` → Match-level dataset (player names, IDs, etc.).  
 - `README.md` → Project documentation (this file).  
