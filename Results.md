@@ -56,16 +56,30 @@ Features: `Speed_KMH`, `ServeWidth`, `CourtSide`
 3. Andrey Rublev
 4. Alexander Zverev
 5. Jannik Sinner
-6. Alexei Popyrin
-7. Grigor Dimitrov
-8. Mattia Bellucci
-9. Matteo Berrettini
-10. Frances Tiafoe
-11. Tomas Machac
-12. Stan Wawrinka
-13. Jack Draper
-14. Nicolas Jarry
-15. Ugo Humbert
+6. Tallon Griekspoor
+7. Alexei Popyrin
+8. Grigor Dimitrov
+9. Mattia Bellucci
+10. Matteo Berrettini
+11. Frances Tiafoe
+12. Tomas Machac
+13. Stan Wawrinka
+14. Jack Draper
+15. Nicolas Jarry
 
 ## Top 15 Women Servers ##
-1.                                                     
+1. Elena Rybakina
+2. Iga Swiatek
+3. Donna Vekic
+4. Naomi Osaka
+5. Anna Karolina Schmiedlova
+6. Karolina Muchova
+7. Anna Kalinskaya
+8. Coco Gauff
+9. Aryna Sabalenka
+10. Caroline Wozniacki
+11. Diana Shnaider
+12. Anna Bondar
+13. Marta Kostyuk
+14. Qinwen Zheng
+15. Elise Mertens                                               
