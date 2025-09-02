@@ -15,9 +15,6 @@ Overall serve-win rate: **63.7%**
 - `best_servers` table ranks players by serve-win % (min **50** serves).  
 - Figure: **Top 15 Servers by Serve Win % (min 50 serves)**.
 
-Artifacts (saved by the script):  
-- **Leaderboard CSV:** `artifacts/usopen2024_serve_leaderboard.csv`  
-- **Figure:** `artifacts/usopen2024_top15_servers.png`
 
 **Exploratory Models (CART & Random Forest)**  
 Features: `Speed_KMH`, `ServeWidth`, `CourtSide`  
@@ -43,13 +40,17 @@ Features: `Speed_KMH`, `ServeWidth`, `CourtSide`
 - Top servers clearly separate on the leaderboard.  
 - Among tested features, **speed and width** matter most.
 
-**Reproducibility**  
-- Put data in `data/`:  
-  - `data/2024-usopen-points.csv`  
-  - `data/2024-usopen-matches.csv`  
-- Run `USOpen2024TennisServeAnalysisProject.R` (saves artifacts to `artifacts/`).  
-- R `sessionInfo()` included below for versions.
+## 🔄 Reproducibility
 
+To reproduce the results:  
+
+1. **Get the data**  
+   - Option A: Use the raw CSVs included in this repo that is from Jeff Sackmann 
+     - `2024-usopen-points.csv`  
+     - `2024-usopen-matches.csv`  
+   - Option B: Download the original datasets manually from [Jeff Sackmann’s Tennis Point-by-Point Repository](https://github.com/JeffSackmann/tennis_slam_pointbypoint) and place them in the `data/` folder with the same filenames.
+
+     
 ## Top 15 Men Servers ##
 1. Taylor Fritz
 2. Ben Shelton                                                   
