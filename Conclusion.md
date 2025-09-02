@@ -21,4 +21,23 @@ Importantly, while machine learning confirmed relationships, the **descriptive l
 
 ---
 
+## 🎾 Looking Ahead — 2025 US Open Predictions
+
+Building on the 2024 serve analysis, the strongest candidates to contend for the 2025 US Open can be framed around those who demonstrated top-tier serving performance:
+
+### Men’s Field (Top Serve Contenders)
+- **Taylor Fritz** and **Ben Shelton** — Americans with big first serves and strong hard-court track records; their serving dominance positions them as potential deep-run candidates.  
+- **Andrey Rublev** and **Alexander Zverev** — consistent top-10 players whose serve reliability often sets the tone in best-of-5 formats.  
+- **Jannik Sinner** — combining elite serve numbers with all-around baseline strength, he profiles as one of the clear title favorites.  
+- **Grigor Dimitrov** and **Jack Draper** — dark-horse names who can weaponize serve-heavy matches to upset higher seeds.
+
+### Women’s Field (Top Serve Contenders)
+- **Elena Rybakina** — arguably the most dangerous server on tour, her hold game makes her a perennial Slam threat.  
+- **Iga Swiatek** — while not traditionally serve-first, her improved serve consistency plus elite return game keeps her in title conversations.  
+- **Aryna Sabalenka** and **Coco Gauff** — both combine strong serving with power-based baseline play, making them likely to reach second-week contention.  
+- **Naomi Osaka** (returning form) and **Qinwen Zheng** (rising star) — could shape the draw if their serve dominance translates into momentum.
+
+### 📝 Caveat
+While serve dominance is a key predictor of match success, the **2025 champion will depend on a broader blend**: return efficiency, mental toughness, and match-ups. That said, the 2024 serve data clearly highlights a pool of players — **Fritz, Shelton, Sinner** on the men’s side and **Rybakina, Sabalenka, Gauff** on the women’s side — as front-runners if their serving form carries into 2025.
+
 ✅ *This marks the final deliverable for the US Open 2024 Serve Analysis project.*
